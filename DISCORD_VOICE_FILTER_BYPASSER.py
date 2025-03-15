@@ -74,7 +74,7 @@ def main():
         print(f"Failed to download the file: {e}")
 
     # Display blue flashes
-    blue_flash()
+    purple_flash()
 
     # Show "Done" message and wait for user input before exiting
     input("Done. Press any key to continue...")
